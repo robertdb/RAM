@@ -17,6 +17,18 @@ h1{
 	color:#fff;
 	font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
+.lenguage {
+	color:rgb(229, 246, 34);
+	position: absolute;
+	top: 40%;
+    left: 15%;
+	display: none;
+}
+
+.lenguage h2{
+	color:rgb(229, 246, 34);;
+}
+
 .container{
 	background-color: #000;
 }
@@ -24,6 +36,11 @@ h1{
 	max-width: 500px;
 	margin: 0 auto;
 }
+.wrapper-img:hover .lenguage{
+    display: block;
+}
+
+
 .wrapper-img #ram{
     border-radius: 60px;
 }
@@ -74,6 +91,11 @@ div p {
 		color: #fff;
 		margin: 90px 19px;
 		font-size: 20px;
+	}
+}
+@media (max-width: 991px) {
+	.wrapper-img:hover .lenguage{
+	    display: none;
 	}
 }
 
