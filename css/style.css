@@ -3,6 +3,11 @@ body{
 	font-family: 'IBM Plex Sans Condensed', sans-serif;
 	padding-bottom: 200px;
 	position: relative;
+	height: 900px;
+}
+h1{
+	font-size: 80px;
+    margin: 80px 0;
 }
 .main{
 	text-align: center;
@@ -16,6 +21,9 @@ body{
 	max-width: 500px;
 	margin: 0 auto;
 }
+.wrapper-img img{
+    border-radius: 60px;
+}
 footer{
 	height:200px;
 	text-align: center;
@@ -27,4 +35,5 @@ footer{
 .footer-text{
 	color:#fff;
     margin-top: 90px;
+	font-size: 25px;
 }
