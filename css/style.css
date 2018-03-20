@@ -9,6 +9,9 @@ h1{
 	font-size: 110px;
 	margin: 70px 0;
 }
+.text:hover{
+	color:rgb(229, 246, 34)
+}
 .main{
 	text-align: center;
 	color:#fff;
