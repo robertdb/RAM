@@ -47,7 +47,7 @@ footer{
 
 div p {
   display: inline-block;
-  font-family: 'Open Sans';
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
   font-size: 90px;
   color: white;
   text-transform: uppercase;
@@ -64,7 +64,7 @@ div p {
 		margin: 40px 5px;
 	}
 	.wrapper-img{
-		max-width: 290px;
+		max-width: 270px;
 		margin: 0 auto;
 	}
 	footer{
