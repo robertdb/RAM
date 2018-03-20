@@ -1,0 +1,30 @@
+body{
+	background-color: #000;
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+	padding-bottom: 200px;
+	position: relative;
+}
+.main{
+	text-align: center;
+	color:#fff;
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.container{
+	background-color: #000;
+}
+.wrapper-img{
+	max-width: 500px;
+	margin: 0 auto;
+}
+footer{
+	height:200px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #000;
+	position: absolute;
+	bottom: 0;
+}
+.footer-text{
+	color:#fff;
+    margin-top: 90px;
+}
