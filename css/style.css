@@ -23,7 +23,7 @@ h1{
 	top: 40%;
     left: 15%;
   display: none;
-  animation: fadein 1s;
+  animation: fadein 2s;
 }
 @keyframes fadein {
   from { opacity: 0; }
